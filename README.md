@@ -30,24 +30,24 @@ Create Log Analytics Workspace to store logs and connect SIEM to display geo dat
 https://i.imgur.com/F5eCIeK.png
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create Azure Sentinel and add to Log Analytics Workspace:
+https://i.imgur.com/c0t0zk6.png
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Access remote Desktop:  <br/>
+https://i.imgur.com/QA3fPHz.png
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+open ipgeolocation to optain a API key for precicise location of failed logins: <br/>
+https://i.imgur.com/Mmo7IFl.png
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Open & run script on Powershell ISE on remote desktop to look through security log and grab all events of people who failed to login by their IP Address :  <br/>
+https://i.imgur.com/Nn9J13K.png
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creat your Map to pinpoint failed login attempts around the world:  <br/>
+https://i.imgur.com/kQfB6m6.png
 </p>
 
 <!--
